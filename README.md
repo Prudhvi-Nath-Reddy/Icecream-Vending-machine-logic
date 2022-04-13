@@ -12,3 +12,5 @@ My machine works as
 3. return will glow when a 5 rupee extra is returned to customer 
 
 4. you can also use reset button to bring back to first state 
+
+Circuit verse link https://circuitverse.org/simulator/edit/ice-cream-vending-machine-c562f59e-b093-49b2-b877-eb89036fedf1
